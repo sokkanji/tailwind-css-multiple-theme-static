@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Multiple theme sample',
-  description: '3가지 이상 테마 적용한 프로젝트 예시',
+  description: '3가지 이상 테마를 적용한 프로젝트 예시',
 };
 
 export default function RootLayout({
