@@ -17,7 +17,7 @@ export default function MainPage() {
     <Wrapper>
       <div className="divide-y divide-gray-300/50">
         <div className="space-y-8 py-4 text-base leading-7 text-gray-600">
-          <h2 className="text-3xl text-primary">커스텀 테마 3가지 이상 구현하기</h2>
+          <h2 className="text-3xl text-primary">3가지 이상 커스텀 테마 구현하기</h2>
           <CheckList data={textList} />
         </div>
       </div>
